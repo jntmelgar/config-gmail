@@ -4,10 +4,10 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 ### **Passo 1: Acesse as configurações do Gmail**
 1. **Abra o Gmail** no seu navegador.
 2. No canto superior direito, clique no **ícone de engrenagem** para abrir o menu de configurações.
-3. Clique em **"Ver todas as configurações"**.
+3. Clique em **"Mostrar todas as configurações"**.
 
 *Imagem de referência:*  
-![Configurações Gmail](https://i.imgur.com/LvHrPld.png)  
+![Configurações Gmail](./img/01.jpg)  
 [Imagem de exemplo da tela de configurações no Gmail]
 
 ---
@@ -17,7 +17,7 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 2. Role para baixo até a seção **"Verificar e-mails de outras contas"** e clique em **"Adicionar uma conta de e-mail"**.
 
 *Imagem de referência:*  
-![Adicionar conta](https://i.imgur.com/MhTF7PR.png)  
+![Adicionar conta](./img/02.jpg)  
 [Imagem de exemplo mostrando a seção onde você adiciona uma conta de e-mail]
 
 ---
@@ -26,7 +26,7 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 1. Uma janela pop-up será aberta. Insira seu endereço de e-mail completo, por exemplo, **usuario@akog.com.br**, e clique em **Próxima**.
    
 *Imagem de referência:*  
-![Inserir e-mail](https://i.imgur.com/l2vY5Wr.png)  
+![Inserir e-mail](./img/03.jpg)  
 [Imagem de exemplo onde você insere o e-mail completo]
 
 ---
@@ -36,7 +36,7 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 2. Caso prefira IMAP (sincronização completa de e-mails), configure o **encaminhamento** do e-mail.
 
 *Imagem de referência:*  
-![Escolha POP ou IMAP](https://i.imgur.com/Bpz4vhw.png)  
+![Escolha POP ou IMAP](./img/04.jpg)  
 [Imagem mostrando a tela onde você escolhe entre POP ou IMAP]
 
 ---
@@ -55,8 +55,10 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 3. Insira seu nome de usuário e senha de e-mail conforme solicitado.
 
 *Imagem de referência:*  
-![Servidor de recebimento](https://i.imgur.com/UFTm8vA.png)  
+![Servidor de recebimento](./img/05.jpg)  
 [Imagem de exemplo onde você preenche os dados do servidor de recebimento]
+
+4. Marque "Sim, quero poder enviar e-mails... " e continue para próxima etapa.
 
 ---
 
@@ -69,7 +71,7 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 2. Insira seu nome de usuário e senha novamente.
 
 *Imagem de referência:*  
-![Servidor SMTP](https://i.imgur.com/yZ8b5mJ.png)  
+![Servidor SMTP](./img/06.jpg)  
 [Imagem de exemplo onde você configura o servidor de envio]
 
 ---
