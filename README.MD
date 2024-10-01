@@ -86,5 +86,3 @@ Para configurar seu e-mail @akog.com.br no Gmail usando POP ou IMAP, você preci
 1. Envie um e-mail de teste para verificar se o envio e recebimento estão funcionando corretamente.
 
 ---
-
-Este tutorial fornece uma visão passo a passo com imagens de exemplo para te ajudar na configuração. Certifique-se de substituir os detalhes com os específicos do seu domínio e e-mail (@akog.com.br).
